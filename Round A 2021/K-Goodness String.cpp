@@ -1,7 +1,5 @@
 //Editorial: https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140/000000000068cca3#analysis
 // Prithvijit Basak
-// GitHub && CodeForces && AtCoder Id: prithvijitbasak
-// CodeChef Id: prithvibasak
 #include<iostream>
 #include<algorithm>
 #include<cmath>
